@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://lineageos.tetaneutral.net/full/s2/20211220/lineage-17.1-20211220-nightly-s2-signed.zip
+  ROM_NAME: lineageos
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
